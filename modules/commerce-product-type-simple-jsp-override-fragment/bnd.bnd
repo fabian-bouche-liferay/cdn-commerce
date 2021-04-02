@@ -1,0 +1,5 @@
+Bundle-Name: commerce-product-type-simple-jsp-override-fragment
+Bundle-SymbolicName: com.liferay.samples.fbo.product.fragment
+Bundle-Version: 1.0.0
+
+Fragment-Host: com.liferay.commerce.product.type.simple
